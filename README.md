@@ -2,8 +2,16 @@
 Reports in Excel using Power Pivot, Power Query, Pivot Tables, and DAX and M languages
 ![cooperation-analyst-chart-professional-paper-economics](https://github.com/eparedes90/Excel_Sales_Analytics/assets/73708363/c2988b80-5fcf-4b44-accb-0a3a84c88e11)
 
-## Sales Report :
+## Content:
+- **Sales Reports**
+   **1.** Market Performance
+   **2.** Customer Performance
 
+- **Finance Reports**
+   **3.** P & L by year and month
+   **4.** P & L by markets
+
+## Sales Reports :
 
 - **Objective:** 
 
@@ -18,7 +26,7 @@ Reports in Excel using Power Pivot, Power Query, Pivot Tables, and DAX and M lan
 - **Role of reports:** Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
 
 
-## Finance Report :
+## Finance Reports :
 
 - **Project objective:** 
 
