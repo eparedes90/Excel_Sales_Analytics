@@ -4,11 +4,15 @@ Reports in Excel using Power Pivot, Power Query, Pivot Tables, and DAX and M lan
 
 ## Content:
 - **Sales Reports**
+  
    **1.** Market Performance
+  
    **2.** Customer Performance
 
 - **Finance Reports**
+  
    **3.** P & L by year and month
+  
    **4.** P & L by markets
 
 ## Sales Reports :
